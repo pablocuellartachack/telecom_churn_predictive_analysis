@@ -1,6 +1,6 @@
 CREATE DATABASE telecom_churn;
 
-LOAD DATA INFILE 'C:\Users\Pablo\Desktop\Analysis_Projects\Telecom_Customer_Churn\Raw_Data'
+LOAD DATA INFILE 'C:\Users\---------------------'
 INTO TABLE raw_data
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n';
